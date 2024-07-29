@@ -2,7 +2,7 @@
 
 You'll need to write some code to get this application running. Your server will function as an API like we've been building and also serve an HTML page.
 
-You should see a website at `http://localhost:3000` when the server is running. A very basic front-end (HTML/CSS/JS) is currently served. Don't change the front end yet. You'll start by building a back end that fits its needs.
+You should see a website at `http://localhost:3000` when the server is running. A very basic front-end (HTML/CSS/JS) is currently served. Don't change the front end yet. You'll start by building a back end that fits its needs. ✅
 
 ## Populate
 
